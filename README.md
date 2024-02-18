@@ -28,4 +28,5 @@ Design and develop frontend with functionalities based on UI image provided in t
 #### Bonus Points:
 
 Include clear and concise comments within your code for enhanced readability.
+<br>
 Utilize TypeScript to benefit from type safety and improved maintainability.
